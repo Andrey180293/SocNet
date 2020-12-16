@@ -1,0 +1,9 @@
+
+.postBlok{
+    padding: 10px;
+}
+button{
+    background-color: brown;
+    cursor: pointer;
+    color: antiquewhite;
+}

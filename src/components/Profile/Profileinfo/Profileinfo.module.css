@@ -1,0 +1,84 @@
+
+
+
+.fon{
+  background-image: url(https://st.depositphotos.com/2850099/4315/v/950/depositphotos_43151633-stock-illustration-abstract-white-geometric-background-vector.jpg);
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 100%;
+  display: flex;
+
+}
+.description_blok{
+  padding: 10px;
+}
+.description_blok img{
+  height: 350px;
+  width: 250px;
+
+}.fullscreen {
+  width: 500px;
+  height: 400px;
+z-index: 2;
+}
+.standart{
+  
+  border-radius: 10px;
+  box-shadow:  2px 2px 5px lightskyblue ;
+
+}
+
+.column_right{
+  display: flex;
+
+}
+.prof_style{
+  font-size: 1.7em;
+box-shadow:  2px 2px 5px lightskyblue ;
+text-align: center;
+
+}
+.status{
+font-size: 1.7em;
+box-shadow:  2px 2px 5px lightskyblue ;
+text-align: center;
+
+}
+.search_work {
+  font-size: 1.7em;
+box-shadow:  2px 2px 5px lightskyblue ;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.search_work img{
+  width: 40px;
+  height: 40px;
+  margin-left: 40px;
+}
+
+h3{
+  text-align: center;
+  box-shadow:  2px 2px 5px lightskyblue ;
+
+}
+.contacts{
+  font-size: 1.2em;
+  margin-left: 20px;
+  margin-right: 5px;
+  width: 300px;
+}
+.contact{
+  box-shadow:  2px 2px 5px lightskyblue ;
+  overflow-wrap: break-word;
+  margin-top: 30px;
+}
+.contacts h4{
+  text-align: center;
+  margin-top: 20px;
+
+  font-size: 1.7em;
+  box-shadow:  2px 2px 5px lightskyblue ;
+
+}

@@ -1,0 +1,38 @@
+
+.row{
+width: 900px;
+overflow: hidden;
+    display: flex;
+    border:solid 1px rebeccapurple;
+    background-color: steelblue;
+    margin: 20px 50px 20px 50px;
+float: left;
+}
+.column_left{
+    font-size: 1.5em;
+margin-left: 50px;
+    color: darkorange;
+}
+.column_left div{
+    font-size: 0.7em;
+    color: indigo;
+}
+
+.column_right img{
+    width: 200px;
+    height: 200px;
+   
+}
+
+
+#curPage{
+    cursor: pointer;
+
+}
+
+
+.selectedPage{
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}

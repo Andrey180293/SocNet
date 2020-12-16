@@ -1,0 +1,10 @@
+.message{
+    padding: 20px 30px;
+    margin-top: 10px;
+    width: 200px;
+    min-height: 40px;
+    border-radius: 30%;
+    border: solid 1px #ffeb3b;
+    margin-left: 80px;
+    overflow-wrap: break-word;
+}

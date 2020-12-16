@@ -1,0 +1,45 @@
+.nav{
+  grid-area: nav;
+background-color: rosybrown;
+}
+.side{
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.nav_main a{
+  cursor: pointer;
+  color:green;
+}
+
+li {
+  list-style-type: none;
+}
+
+.nav_main li {
+  padding: 10px; }
+   .nav_main li:after {
+  display: block;
+  content: "";
+
+  height: 1px;
+  width: 1%;
+  background-color: #ffeb3b;
+  -webkit-transition: width .3s ease-in-out;
+  -o-transition: width .3s ease-in-out;
+  transition: width .3s ease-in-out; }
+
+  .nav_main  li:hover:after {
+    background-color:  red;
+  width: 100%; }
+
+.item a{
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.item a.activeLink {
+  color: red;
+}

@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "avatar":"https://ru.citaty.net/media/authors/al-capone.jpg",
+      "followed": false,
+     "fullName": "Andrey",
+     "status": "I am a boss",
+     "location": {
+       "city": "Lwiv",
+        "country": "Ukraine"
+      }
+    }, {
+      "id": 2,
+      "avatar":"https://4.bp.blogspot.com/-JZIEQ4RWN-8/Wk0DCcwFlWI/AAAAAAAAJjg/HzR7GQdoEBknWhE-k09LJrCwhhqbrWNPgCLcBGAs/s1600/Screen%2BShot%2B2018-01-03%2Bat%2B18.20.15.png",
+
+      "followed": true,
+
+     "fullName": "Avgysto",
+     "status": "I love pizza and pasta",
+     "location": {
+       "city": "Neapol",
+        "country": "Italy"
+      }
+    }, {
+      "id": 3,
+      "avatar":"https://4.bp.blogspot.com/-JZIEQ4RWN-8/Wk0DCcwFlWI/AAAAAAAAJjg/HzR7GQdoEBknWhE-k09LJrCwhhqbrWNPgCLcBGAs/s1600/Screen%2BShot%2B2018-01-03%2Bat%2B18.20.15.png",
+
+      "followed": false,
+     "fullName": "Avgystin",
+     "status": "I am an emigrante from Sitsilia miskyzi",
+     "location": {
+       "city": "Ottava",
+        "country": "Canada"
+      }
+    }, {
+      "id": 4,
+      "followed": false,
+     "fullName": "Avreliy",
+     "status": "I am an emigrante from Lombardia miskyzi",
+     "location": {
+       "city": "New-York",
+        "country": "USA"
+      }
+       },
+    {
+      "id": 5,
+      "followed": true,
+      "fullName": "Rokki Marchiano",
+      "status": "I am a big Champion from Lombardia miskyzi",
+      "location": {
+        "city": "Las-Vegas",
+        "country": "USA"
+      }
+    },
+       {
+      "id": 6,
+      "followed": true,
+     "fullName": "Rokki Balboa",
+     "status": "Hello i am a prototip Rokki Marchiano Rozjebem pjedistal",
+     "location": {
+       "city": "Las-Vegas",
+        "country": "USA"
+      }
+       },
+        {
+        "id": 7,
+        "followed": true,
+       "fullName": "Silvwestr",
+       "status": " Rozjebem pjedistal",
+       "location": {
+         "city": "Los-Angelles",
+          "country": "USA"
+        }
+         },
+         {
+          "id": 8,
+          "followed": true,
+         "fullName": "CHAK NORRIS",
+         "status": "YOU KNOW WHO I AM",
+         "location": {
+           "city": "TEXAS",
+            "country": "USA"
+          }
+           }
+  ]
+}
